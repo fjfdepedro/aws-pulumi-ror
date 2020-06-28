@@ -1,0 +1,7 @@
+config:
+  aws:region: eu-west-1
+  rails:dbPassword:
+    secure: AAABAC3MAIGEtochyWBedjw3jA4dvAKPRMdiPZagcOIHUW7z8CHZ
+  rails:dbRootPassword:
+    secure: AAABAEVbxEjrflzhLbMzmSSYVbiilWS97NDi4I/rnGViH67voA==
+  rails:dbUser: paco
