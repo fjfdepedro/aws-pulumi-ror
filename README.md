@@ -19,3 +19,16 @@
     $ pulumi destroy --yes
     $ pulumi stack rm --yes
     ```
+
+# Github Actions
+
+Any PR we do will call
+    ```bash
+    $ pulumi preview
+    ```
+
+Any commit we make in master will call
+
+    ```bash
+    $ pulumi up
+    ```
